@@ -100,7 +100,7 @@
           <h2 class="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
             Send us a Message
           </h2>
-          <p class="text-gray-800 text-sm sm:text-base lg:text-lg max-w-2xl mx-auto">
+          <p class="text-gray-600 text-sm sm:text-base lg:text-lg max-w-2xl mx-auto">
             Have a question or want to work together? Fill out the form below and we'll get back to you as soon as
             possible.
           </p>

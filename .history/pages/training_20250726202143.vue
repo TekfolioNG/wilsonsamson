@@ -42,7 +42,7 @@
                     </div>
 
                     <!-- Image Column -->
-                    <div class="relative group mx-2 sm:mx-4 lg:mx-6 mt-8 lg:mt-24">
+                    <div class="relative group mx-2 sm:mx-4 lg:mx-6">
                         <div
                             class="overflow-hidden rounded-2xl shadow-2xl transition-transform duration-500 group-hover:scale-105">
                             <img src="~/assets/img/wilsonsamson-training.jpg" alt="Employee productivity training"
@@ -155,18 +155,16 @@
                     </div>
 
                     <!-- Image Column -->
-                    <div class="relative mx-2 sm:mx-4 lg:mx-6 space-y-6">
-                        <div class="overflow-hidden rounded-2xl shadow-2xl">
+                    <div class="relative group mx-2 sm:mx-4 lg:mx-6 space-y-6">
+                        <div
+                            class="overflow-hidden rounded-2xl shadow-2xl transition-transform duration-500 group-hover:scale-105">
                             <img src="~/assets/img/wilsonsamson-training2.jpg" alt="Team collaboration training"
-                                class="w-full h-[180px] sm:h-[200px] lg:h-[270px] object-cover" />
+                                class="w-full h-[200px] sm:h-[240px] lg:h-[280px] object-cover" />
                         </div>
-                        <div class="overflow-hidden rounded-2xl shadow-2xl">
-                            <img src="~/assets/img/wilsonsamson-training4.jpg" alt="Professional skills development"
-                                class="w-full h-[180px] sm:h-[200px] lg:h-[270px] object-cover" />
-                        </div>
-                        <div class="overflow-hidden rounded-2xl shadow-2xl">
+                        <div
+                            class="overflow-hidden rounded-2xl shadow-2xl transition-transform duration-500 group-hover:scale-105">
                             <img src="~/assets/img/wilsonsamson-training3.jpg" alt="Professional development session"
-                                class="w-full h-[180px] sm:h-[200px] lg:h-[270px] object-cover" />
+                                class="w-full h-[200px] sm:h-[240px] lg:h-[280px] object-cover" />
                         </div>
                     </div>
                 </div>

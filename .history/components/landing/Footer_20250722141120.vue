@@ -65,9 +65,8 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                 d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
             </svg>
-            <span class="text-gray-900 text-base">11 Adeshina Street, Off Olowu Street, <br>Off Obafemi Awolowo Way,
-              Ikeja,
-              Lagos</br></span>
+            <span class="text-gray-900 text-base">11 Adeshina Street, Off Olowu Street. Off Obafemi Awolowo Way, Ikeja,
+              Lagos</span>
           </div>
 
           <div class="flex items-center gap-3">

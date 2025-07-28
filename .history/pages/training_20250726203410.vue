@@ -158,15 +158,15 @@
                     <div class="relative mx-2 sm:mx-4 lg:mx-6 space-y-6">
                         <div class="overflow-hidden rounded-2xl shadow-2xl">
                             <img src="~/assets/img/wilsonsamson-training2.jpg" alt="Team collaboration training"
-                                class="w-full h-[180px] sm:h-[200px] lg:h-[270px] object-cover" />
+                                class="w-full h-[180px] sm:h-[200px] lg:h-[220px] object-cover" />
                         </div>
                         <div class="overflow-hidden rounded-2xl shadow-2xl">
                             <img src="~/assets/img/wilsonsamson-training4.jpg" alt="Professional skills development"
-                                class="w-full h-[180px] sm:h-[200px] lg:h-[270px] object-cover" />
+                                class="w-full h-[180px] sm:h-[200px] lg:h-[220px] object-cover" />
                         </div>
                         <div class="overflow-hidden rounded-2xl shadow-2xl">
                             <img src="~/assets/img/wilsonsamson-training3.jpg" alt="Professional development session"
-                                class="w-full h-[180px] sm:h-[200px] lg:h-[270px] object-cover" />
+                                class="w-full h-[180px] sm:h-[200px] lg:h-[220px] object-cover" />
                         </div>
                     </div>
                 </div>

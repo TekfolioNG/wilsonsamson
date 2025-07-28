@@ -26,12 +26,12 @@
                         </p>
                         <div class="flex flex-col sm:flex-row gap-4">
                             <NuxtLink to="/contact" target="_blank"
-                                class="bg-gray-900 hover:bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold transition-all duration-300 text-center">
+                                class="bg-black hover:bg-white border border-gray-500 hover:border-gray-600 text-white hover:text-gray-800 px-6 py-3 rounded-lg font-semibold transition-all duration-300 text-center">
                                 Book a Clarity Session
                             </NuxtLink>
                             <a href="https://wa.me/2348132924637"
-                                class="border border-gray-900 hover:bg-blue-600  text-gray-900 hover:text-white px-6 py-3 rounded-lg font-semibold transition-all duration-300 text-center">
-                                Schedule a Discovery Call
+                                class="border border-gray-600 hover:border-gray-500 text-gray-800 hover:bg-black hover:text-white px-6 py-3 rounded-lg font-semibold transition-all duration-300 text-center">
+                                Schedule Discovery Call
                             </a>
                         </div>
                     </div>
