@@ -44,7 +44,7 @@
                                         recovery.
                                     </p>
                                     <a href="#" target="_blank" rel="noopener noreferrer"
-                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
+                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-base font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
                                         ORDER NOW
                                     </a>
                                 </div>
@@ -67,7 +67,7 @@
                                         Transform your workplace culture and unlock the full potential of your team.
                                     </p>
                                     <a href="#" target="_blank" rel="noopener noreferrer"
-                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
+                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-base font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
                                         ORDER NOW
                                     </a>
                                 </div>
@@ -90,7 +90,7 @@
                                         Essential frameworks for creating sustainable organizational growth and success.
                                     </p>
                                     <a href="#" target="_blank" rel="noopener noreferrer"
-                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
+                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-base font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
                                         ORDER NOW
                                     </a>
                                 </div>
@@ -114,7 +114,7 @@
                                         organization.
                                     </p>
                                     <a href="#" target="_blank" rel="noopener noreferrer"
-                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
+                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-base font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
                                         ORDER NOW
                                     </a>
                                 </div>
@@ -138,7 +138,7 @@
                                         well-being.
                                     </p>
                                     <a href="#" target="_blank" rel="noopener noreferrer"
-                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
+                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-base font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
                                         ORDER NOW
                                     </a>
                                 </div>
@@ -162,7 +162,7 @@
                                         competitive market.
                                     </p>
                                     <a href="#" target="_blank" rel="noopener noreferrer"
-                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
+                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-base font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
                                         ORDER NOW
                                     </a>
                                 </div>
@@ -186,7 +186,7 @@
                                         success.
                                     </p>
                                     <a href="#" target="_blank" rel="noopener noreferrer"
-                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
+                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-base font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
                                         ORDER NOW
                                     </a>
                                 </div>

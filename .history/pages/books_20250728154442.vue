@@ -39,12 +39,12 @@
                                         class="text-sm md:text-base font-bold text-gray-900 mb-2 font-barlow-condensed leading-tight">
                                         What To Do When Everything Goes Bad
                                     </h3>
-                                    <p class="text-sm text-gray-600 mb-3 line-clamp-2">
+                                    <p class="text-xs text-gray-600 mb-3 line-clamp-2">
                                         Navigate through challenging times with proven strategies for resilience and
                                         recovery.
                                     </p>
                                     <a href="#" target="_blank" rel="noopener noreferrer"
-                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
+                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-xs font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
                                         ORDER NOW
                                     </a>
                                 </div>
@@ -63,11 +63,11 @@
                                         class="text-sm md:text-base font-bold text-gray-900 mb-2 font-barlow-condensed leading-tight">
                                         Engaged Employees, Thriving Business
                                     </h3>
-                                    <p class="text-sm text-gray-600 mb-3 line-clamp-2">
+                                    <p class="text-xs text-gray-600 mb-3 line-clamp-2">
                                         Transform your workplace culture and unlock the full potential of your team.
                                     </p>
                                     <a href="#" target="_blank" rel="noopener noreferrer"
-                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
+                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-xs font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
                                         ORDER NOW
                                     </a>
                                 </div>
@@ -86,11 +86,11 @@
                                         class="text-base md:text-lg font-bold text-gray-900 mb-2 font-barlow-condensed leading-tight">
                                         Building A Thriving Organization
                                     </h3>
-                                    <p class="text-sm text-gray-600 mb-3 line-clamp-2">
+                                    <p class="text-xs text-gray-600 mb-3 line-clamp-2">
                                         Essential frameworks for creating sustainable organizational growth and success.
                                     </p>
                                     <a href="#" target="_blank" rel="noopener noreferrer"
-                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
+                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-xs font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
                                         ORDER NOW
                                     </a>
                                 </div>
@@ -109,12 +109,12 @@
                                         class="text-sm md:text-base font-bold text-gray-900 mb-2 font-barlow-condensed leading-tight">
                                         Only Quality People
                                     </h3>
-                                    <p class="text-sm text-gray-600 mb-3 line-clamp-2">
+                                    <p class="text-xs text-gray-600 mb-3 line-clamp-2">
                                         Master the art of hiring, developing, and retaining exceptional talent for your
                                         organization.
                                     </p>
                                     <a href="#" target="_blank" rel="noopener noreferrer"
-                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
+                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-xs font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
                                         ORDER NOW
                                     </a>
                                 </div>
@@ -133,12 +133,12 @@
                                         class="text-sm md:text-base font-bold text-gray-900 mb-2 font-barlow-condensed leading-tight">
                                         Burnout Is Killing Your Business - Fix It
                                     </h3>
-                                    <p class="text-sm text-gray-600 mb-3 line-clamp-2">
+                                    <p class="text-xs text-gray-600 mb-3 line-clamp-2">
                                         Identify and eliminate burnout in your organization to boost productivity and
                                         well-being.
                                     </p>
                                     <a href="#" target="_blank" rel="noopener noreferrer"
-                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
+                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-xs font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
                                         ORDER NOW
                                     </a>
                                 </div>
@@ -157,12 +157,12 @@
                                         class="text-sm md:text-base font-bold text-gray-900 mb-2 font-barlow-condensed leading-tight">
                                         The Business of Attention: How to Attract and Retain Clients
                                     </h3>
-                                    <p class="text-sm text-gray-600 mb-3 line-clamp-2">
+                                    <p class="text-xs text-gray-600 mb-3 line-clamp-2">
                                         Master the strategies to capture and maintain client attention in today's
                                         competitive market.
                                     </p>
                                     <a href="#" target="_blank" rel="noopener noreferrer"
-                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
+                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-xs font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
                                         ORDER NOW
                                     </a>
                                 </div>
@@ -181,12 +181,12 @@
                                         class="text-sm md:text-base font-bold text-gray-900 mb-2 font-barlow-condensed leading-tight">
                                         Stop Being Normal: How to Stand Out
                                     </h3>
-                                    <p class="text-sm text-gray-600 mb-3 line-clamp-2">
+                                    <p class="text-xs text-gray-600 mb-3 line-clamp-2">
                                         Break free from conformity and discover your unique path to extraordinary
                                         success.
                                     </p>
                                     <a href="#" target="_blank" rel="noopener noreferrer"
-                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
+                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-xs font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
                                         ORDER NOW
                                     </a>
                                 </div>
