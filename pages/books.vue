@@ -168,11 +168,11 @@
                                 </div>
                             </div>
 
-                            <!-- Book 7 -->
+                            <!-- Book 7 - Updated image -->
                             <div
                                 class="bg-white rounded-lg shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden group max-w-xs mx-auto">
                                 <div class="aspect-[3/4] overflow-hidden">
-                                    <img src="~/assets/img/stop-being-normal-how-to-standout-wilson-samson.png"
+                                    <img src="~/assets/img/stop-being-normal2-wilson-samson.jpg"
                                         alt="Stop Being Normal: How to Stand Out by Wilson Samson"
                                         class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" />
                                 </div>
@@ -184,6 +184,30 @@
                                     <p class="text-sm text-gray-600 mb-3 line-clamp-2">
                                         Break free from conformity and discover your unique path to extraordinary
                                         success.
+                                    </p>
+                                    <a href="#" target="_blank" rel="noopener noreferrer"
+                                        class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
+                                        ORDER NOW
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- Book 8 - New book -->
+                            <div
+                                class="bg-white rounded-lg shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden group max-w-xs mx-auto">
+                                <div class="aspect-[3/4] overflow-hidden">
+                                    <img src="~/assets/img/why-am-i-not-selling-wilson-samson.png"
+                                        alt="Why Am I Not Selling by Wilson Samson"
+                                        class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" />
+                                </div>
+                                <div class="p-3">
+                                    <h3
+                                        class="text-sm md:text-base font-bold text-gray-900 mb-2 font-barlow-condensed leading-tight">
+                                        Why Am I Not Selling?
+                                    </h3>
+                                    <p class="text-sm text-gray-600 mb-3 line-clamp-2">
+                                        The hidden barriers preventing your sales success. Unlock your true
+                                        selling potential.
                                     </p>
                                     <a href="#" target="_blank" rel="noopener noreferrer"
                                         class="inline-block bg-black hover:bg-blue-600 text-white px-2 py-1.5 rounded text-sm font-light tracking-[0.25em] transition-colors duration-300 w-full text-center uppercase">
