@@ -17,7 +17,7 @@ useHead({
       content:
         'Engineering, construction, real estate, and procurement services across Nigeria. Wilson Samson delivers reliable and innovative solutions tailored to client needs.'
     },
-    { property: 'og:image', content: 'https://wilsonsamson.com/og-image.png' },
+    { property: 'og:image', content: 'https://wilsonsamson.com/og-image.jpg' },
     { property: 'og:image:width', content: '1200' },
     { property: 'og:image:height', content: '630' },
     { property: 'og:image:alt', content: 'Wilson Samson - Engineering, Real Estate & Procurement Solutions' },
@@ -28,7 +28,7 @@ useHead({
       content:
         'Delivering trusted engineering, construction, real estate, and procurement services in Nigeria.'
     },
-    { name: 'twitter:image', content: 'https://wilsonsamson.com/og-image.png' }
+    { name: 'twitter:image', content: 'https://wilsonsamson.com/og-image.jpg' }
   ]
 });
 

@@ -1,11 +1,8 @@
 export default defineNuxtConfig({
-  runtimeConfig: {
-    paystackSecretKey: process.env.PAYSTACK_SECRET_KEY,
+    ssr: true, // ✅ Moved to root level
+    // runtimeConfig: {
     web3formsKey: process.env.WEB3FORMS_KEY,
-    public: {
-      paystackPublicKey: process.env.PAYSTACK_PUBLIC_KEY,
-      siteUrl: process.env.SITE_URL || 'http://localhost:3000',
-    },
+  
   },
   css: ["~/assets/css/main.css"],
   postcss: {
@@ -15,7 +12,8 @@ export default defineNuxtConfig({
   },
   modules: [
     "nuxt-icon",
-    "@nuxt/ui"
+    "@nuxt/ui",
+    "@nuxt/image"
   ],
   ui: {
     fonts: true
@@ -23,7 +21,8 @@ export default defineNuxtConfig({
   nitro: {
     preset: "cloudflare-pages",
     output: {
-      publicDir: ".output/public",
+    publicDir: ".output/public",
+    serverDir: '.output/server'
     },
     prerender: {
       failOnError: false,
@@ -33,7 +32,6 @@ export default defineNuxtConfig({
   experimental: {
     payloadExtraction: false,
   },
-  ssr: false,
   app: {
     baseURL: "/",
   },
