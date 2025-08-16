@@ -11,11 +11,11 @@ useHead({
       content:
         'Wilson Samson helps entrepreneurs and professionals unlock their strengths, bridge gaps between strategy and systems, and grow their impact through coaching, workshops, and business writing services.'
     },
-    { property: 'og:title', content: 'Wilson Samson — Coaching · Strategy · Publishing Services' },
+    { property: 'og:title', content: 'Wilson Samson | Engineering, Real Estate & Procurement Services in Nigeria' },
     {
       property: 'og:description',
       content:
-        'Wilson Samson helps entrepreneurs and professionals unlock their strengths, bridge gaps between strategy and systems, and grow their impact through coaching, workshops, and business writing services.'
+        'Engineering, construction, real estate, and procurement services across Nigeria. Wilson Samson delivers reliable and innovative solutions tailored to client needs.'
     },
     { property: 'og:image', content: 'https://wilsonsamson.com/og-image.png' },
     { property: 'og:image:width', content: '1200' },
