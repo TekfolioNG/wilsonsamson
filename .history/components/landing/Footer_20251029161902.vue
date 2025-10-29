@@ -7,11 +7,11 @@
         <div class="space-y-4">
           <div class="flex items-center gap-5">
             <NuxtLink to="/">
-              <img src="~/assets/img/wilsonsamson-logo.png" alt="Wilson Samson Logo"
+              <img src="~/assets/img/wilsonsamson-logo5.png" alt="Wilson Samson Logo"
                 class="h-20 md:h-24 drop-shadow-lg" />
             </NuxtLink>
             <h2 class="text-xl md:text-2xl font-bold text-blue-600 font-barlow-condensed">
-
+              THE BUSINESS COMPANION
             </h2>
           </div>
 

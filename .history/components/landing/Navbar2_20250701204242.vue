@@ -37,7 +37,7 @@ const progressBarColor = 'bg-gray-700';
                 <header class="flex items-center justify-between py-6">
                     <!-- Logo section - removed invert classes for black logo -->
                     <NuxtLink to="/" class="inline-block">
-                        <img src="/img/wilsonsamson-logo5.png" alt="wilsonsamson Logo"
+                        <img src="/img/wilsonsamson-logo.png" alt="wilsonsamson Logo"
                             class="h-16 md:h-20 drop-shadow-lg" />
                     </NuxtLink>
 

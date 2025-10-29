@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-gray-100 text-gray-900 pt-8 pb-6 px-6 sm:px-8 text-center md:text-left">
+  <footer class="bg-gray-100 text-gray-900 pt-8 pb-6 px-6 sm:px-8 text-center md:text-left text-center md:text-left">
     <div class="container mx-auto">
       <!-- Main Footer -->
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
@@ -7,11 +7,11 @@
         <div class="space-y-4">
           <div class="flex items-center gap-5">
             <NuxtLink to="/">
-              <img src="~/assets/img/wilsonsamson-logo.png" alt="Wilson Samson Logo"
+              <img src="~/assets/img/wilsonsamson-logo5.png" alt="Wilson Samson Logo"
                 class="h-20 md:h-24 drop-shadow-lg" />
             </NuxtLink>
             <h2 class="text-xl md:text-2xl font-bold text-blue-600 font-barlow-condensed">
-
+              THE BUSINESS COMPANION
             </h2>
           </div>
 
