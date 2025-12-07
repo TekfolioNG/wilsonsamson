@@ -114,8 +114,8 @@
             © {{ new Date().getFullYear() }} WILSON SAMSON & Litera-Forge Ltd. All Rights Reserved.
           </div>
           <div class="order-3 text-gray-700 text-sm text-center md:text-right">
-            Website Developed by <NuxtLink to="https://tekfol.io" target="_blank"
-              class="text-gray-900 hover:text-blue-600 transition-colors">Tekfolio Ltd</NuxtLink>
+            Website Developed by <a href="https://tekfolio.ng" target="_blank" rel="noopener noreferrer"
+              class="text-gray-900 hover:text-blue-600 transition-colors">Tekfolio Ltd</a>
           </div>
         </div>
       </div>
